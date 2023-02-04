@@ -1,11 +1,11 @@
-adb_path = 'D:\\JocsPC\\Nox\\bin'
-project_path = 'F:\\WebPages\\Bots\\marvelSnapBot'
-images_folder = project_path + '\\images'
-fields_folder = images_folder + '\\fields'
-mana_folder = images_folder + '\\mana'
-turns_folder = images_folder + '\\turns'
-data_folder = project_path + '\\data'
-tmp_path = project_path + '\\tmp'
+adb_path = 'C:\\Users\\tofu\\Documents\\GitHub\\platform-tools'
+project_path = 'C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot'
+images_folder = "C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot\\images"
+fields_folder = "C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot\\images\\fields"
+mana_folder = "C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot\\images\\mana"
+turns_folder = "C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot\\images\\turns"
+data_folder = "C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot\\data"
+tmp_path = 'C:\\Users\\tofu\\Documents\\GitHub\\marvel_snap_bot\\marvel-snap-bot\\tmp'
 example_data_path = images_folder + '\\example_data'
 tmp_image_without_bg_path = tmp_path + \
     '\\hand_cards_number_without_background.png'
